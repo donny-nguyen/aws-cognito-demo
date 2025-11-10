@@ -80,7 +80,7 @@ const CognitoAuth = () => {
 
   return (
     <div style={{ minHeight: '100vh', backgroundColor: '#f5f5f5' }}>
-      <Authenticator components={components}>
+        <Authenticator components={components} hideSignUp={true}>
         {({ signOut, user }) => (
           <AuthenticatedApp user={user} signOut={signOut} />
         )}
