@@ -181,6 +181,7 @@ function App() {
 - [AWS Cognito Documentation](https://docs.aws.amazon.com/cognito/)
 - [Amplify UI React Components](https://ui.docs.amplify.aws/react)
 - [AWS Amplify Auth API](https://docs.amplify.aws/lib/auth/getting-started/q/platform/js/)
+- [Secure your API Gateway with Amazon Cognito User Pools | Step by Step AWS Tutorial](https://www.youtube.com/watch?v=oFSU6rhFETk)
 
 ---
 
